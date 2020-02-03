@@ -1,0 +1,19 @@
+html {
+	scroll-behavior: smooth;
+}
+
+#banner .content .image img {
+	display: block;
+	position: relative;
+	left: -97px;
+	width: auto;
+	height: 100%;
+}
+
+.concert1 {
+	transform: scaleX(-1);
+}
+
+.spotlight:before {
+	background-image: none;
+}
